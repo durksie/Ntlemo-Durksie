@@ -1,10 +1,10 @@
 # 👋 Hi there, I’m Ntlemo Durksie
 
-Currently learning: AWS, Spring Boot, Clean Architecture
+Currently learning: Spring Boot, Clean Architecture, PostgreSQL
 
 Aspiring: Java Developer / Full Stack Developer
 
-Passionate about: Building scalable Java backends, modern UIs, automation, and writing clean, maintainable code.
+Passionate about: Building scalable backends, modern UIs, automation, and writing clean, maintainable code.
 
 # 🧰 Tech Stack
 
@@ -18,7 +18,7 @@ Database: MySQL, SQLite
 
 Microsoft Power Platform: Power Apps (Canvas Apps), Power Automate, Power Fx
 
-Cloud / DevOps: Linux, Git, Docker (learning), AWS (learning)
+Cloud / DevOps: Azure DevOps, Git
 
 # ⭐ Featured Projects
 #   Voucher Generation System (Node.js, Express, React, MySQL)
@@ -29,7 +29,7 @@ Repo: https://github.com/yourusername/voucher-system
 A clean dashboard for tasks, events, projects, and analytics with charts and a modern UI built using local storage for persistence.
 Repo: https://github.com/yourusername/project-management-dashboard
 
-# ClubBraids by Theodore (HTML, CSS, JavaScript)
+# ClubBraids by Theodore (HTML, CSS, JavaScript,Firebase)
 A fully responsive website for a hair-braiding business featuring services, pricing, gallery sections, and mobile-friendly layouts.
 Repo: https://github.com/yourusername/clubbraids-website
 
