@@ -28,12 +28,12 @@ Repo: [https://github.com/durksie/Voucher-Management-System-phase2]
 # Project Management Dashboard (React, Next.js, Tailwind CSS, TypeScript)
 A clean dashboard for tasks, events, projects, and analytics with charts and a modern UI built using local storage for persistence.
 Repo: [https://github.com/durksie/PROJECT-MANAGEMENT-DASHBOARD-Phase2]
-Deployed Link: [dashboard2-smoky-nu.vercel.app]
+Deployed Link: [https://dashboard2-smoky-nu.vercel.app]
 
 # ClubBraids by Theodore (HTML, CSS, JavaScript,Firebase)
 A fully responsive website for a hair-braiding business featuring services, pricing, gallery sections, and mobile-friendly layouts.
 Repo: [https://github.com/durksie/ClubBraids-website]
-Deployed Link: https://durksie.github.io/ClubBraids-website/
+Deployed Link: [https://durksie.github.io/ClubBraids-website/]
 
 # Modern Fintech Dashboard (Node.js, React, Monorepo, MySQL)
 A financial dashboard inspired by FNB’s user experience, featuring secure login, real-time account views, transactions, analytics, and modern UX built with a monorepo architecture.
