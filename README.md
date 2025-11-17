@@ -1,16 +1,23 @@
 # 👋 Hi there, I’m Ntlemo Durksie
 
 Currently learning: AWS, Spring Boot, Clean Architecture
+
 Aspiring: Java Developer / Full Stack Developer
+
 Passionate about: Building scalable Java backends, modern UIs, automation, and writing clean, maintainable code.
 
 # 🧰 Tech Stack
 
 Languages: Java, Python, JavaScript, PHP, SQL, VB.NET
+
 Frontend: React.js, HTML, CSS, Tailwind CSS, Webflow
+
 Backend: Java (Spring Boot – learning), Node.js, Express.js, Python
+
 Database: MySQL, SQLite
+
 Microsoft Power Platform: Power Apps (Canvas Apps), Power Automate, Power Fx
+
 Cloud / DevOps: Linux, Git, Docker (learning), AWS (learning)
 
 # ⭐ Featured Projects
