@@ -65,10 +65,21 @@ Passionate about: Building scalable backends, modern UIs, automation, and writin
 
 
 
-# 📫 Contact Me
+## 📫 Contact Me
 
-📧 Email: durksie1@gmail.com
+### 📧 Email
+[![Email](https://img.shields.io/badge/Email-durksie1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durksie1@gmail.com)  
+**Email:** durksie1@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/durksie-ntlemo-29782426b/
+---
 
-💻 GitHub: https://github.com/durksie
+### 🔗 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Durksie%20Ntlemo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durksie-ntlemo-29782426b/)  
+**LinkedIn:** https://www.linkedin.com/in/durksie-ntlemo-29782426b/
+
+---
+
+### 💻 GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-durksie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durksie)  
+**GitHub:** https://github.com/durksie
+
