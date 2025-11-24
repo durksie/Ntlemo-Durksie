@@ -65,6 +65,17 @@ Deployed Link: [https://durksie.github.io/ClubBraids-website/]
 A financial dashboard inspired by FNB’s user experience, featuring secure login, real-time account views, transactions, analytics, and modern UX built with a monorepo architecture.
 Repo: [https://github.com/durksie/Fintech-Dashboard]
 
+
+## ⭐ Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|--------|
+| **Voucher Generation System** | A full backend & frontend system for generating, redeeming, and managing vouchers with secure APIs and status tracking. | Node.js, Express, React, MySQL | [Repo](https://github.com/durksie/Voucher-Management-System-phase2) |
+| **Project Management Dashboard** | A modern dashboard for tasks, events, projects, and analytics using local storage for persistence. | React, Next.js, Tailwind CSS, TypeScript | [Repo](https://github.com/durksie/PROJECT-MANAGEMENT-DASHBOARD-Phase2) • [Live](https://dashboard2-smoky-nu.vercel.app) |
+| **ClubBraids by Theodore** | A fully responsive website for a hair-braiding business with services, pricing, and gallery sections. | HTML, CSS, JavaScript, Firebase | [Repo](https://github.com/durksie/ClubBraids-website) • [Live](https://durksie.github.io/ClubBraids-website/) |
+| **Modern Fintech Dashboard** | Secure fintech dashboard inspired by FNB UX with account views, transactions, analytics, and monorepo architecture. | Node.js, React, Monorepo, MySQL | [Repo](https://github.com/durksie/Fintech-Dashboard) |
+
+
 # 📫 Contact Me
 
 📧 Email: durksie1@gmail.com
