@@ -53,7 +53,6 @@ Passionate about: Building scalable backends, modern UIs, automation, and writin
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 # ⭐ Featured Projects
 
 | Project | Description | Tech Stack | Repo Link | Deployed Link |
@@ -62,6 +61,7 @@ Passionate about: Building scalable backends, modern UIs, automation, and writin
 | **Project Management Dashboard** | Modern dashboard for tasks, events, projects, and analytics using local storage for persistence. | React, Next.js, Tailwind CSS, TypeScript | [Repo](https://github.com/durksie/PROJECT-MANAGEMENT-DASHBOARD-Phase2) | [Live](https://dashboard2-smoky-nu.vercel.app) |
 | **ClubBraids by Theodore** | Responsive hair-braiding business website with services, pricing, and gallery sections. | HTML, CSS, JavaScript, Firebase | [Repo](https://github.com/durksie/ClubBraids-website) | [Live](https://durksie.github.io/ClubBraids-website/) |
 | **Modern Fintech Dashboard** | Fintech dashboard with secure login, real-time account views, transactions, analytics, and monorepo architecture. | Node.js, React, Monorepo, MySQL | [Repo](https://github.com/durksie/Fintech-Dashboard) | — |
+| **Personal Portfolio** | Modern responsive portfolio showcasing projects, skills, and experience with smooth animations and dark theme.. | HTML, CSS, JavaScript | [Repo](https://github.com/durksie/portfolio) | [Live](https://durksie.github.io/portfolio/) |
 
 
 
