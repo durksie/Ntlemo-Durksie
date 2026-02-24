@@ -1,10 +1,17 @@
 # 👋 Hi there, I’m Ntlemo Durksie
 
-Currently learning: Spring Boot, Clean Architecture, PostgreSQL
+Currently focused on: Spring Boot, JWT Authentication, Spring Security, Clean Architecture, PostgreSQL
 
-Aspiring: Java Developer / Full Stack Developer
+Aspiring: Java Backend Developer / Full Stack Engineer
 
 Passionate about: Building scalable backends, modern UIs, automation, and writing clean, maintainable code.
+
+### 🚀 Professional Snapshot
+* 💼 **1+ year** real-world development experience.
+* 🔐 Experienced in building secure **REST APIs** with **JWT authentication**.
+* 🧠 Strong understanding of **backend architecture** & system design.
+* ⚡ Skilled at debugging, optimization, and performance improvements.
+* 🤝 Collaborative team developer delivering production features.
 
 # 🧰 Tech Stack
 
@@ -26,20 +33,21 @@ Passionate about: Building scalable backends, modern UIs, automation, and writin
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
 
+## Backend & Security:
 
-## Backend: 
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
 ## Database: 
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
 
 
 ## Microsoft Power Platform: 
